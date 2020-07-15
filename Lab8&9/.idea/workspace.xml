@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f01738d9-a826-4346-ae0a-1e709fb935aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1afoP59PZIHIh3S3xMZLVDeXSCa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Zipf">
+    <configuration name="SelfOrganizingST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelfOrganizingST" />
+      <module name="Lab8&amp;9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zipf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zipf" />
+      <module name="Lab8&amp;9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash" />
+      <module name="Lab8&amp;9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Zipf" />
+        <item itemvalue="Application.SelfOrganizingST" />
+        <item itemvalue="Application.hash" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f01738d9-a826-4346-ae0a-1e709fb935aa" name="Default Changelist" comment="" />
+      <created>1587135981986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587135981986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="127" key="#Project_Structure" timestamp="1587136067582">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="392" y="127" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1587136067581" />
+    <state x="845" y="152" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1587536837299">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="845" y="152" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.23.1440.877@0.23.1440.877" timestamp="1587536837299" />
+    <state x="405" y="131" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1587574683459">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="405" y="131" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1440.900@0.0.1440.900" timestamp="1587574683459" />
+    <state x="479" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587575908201">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="479" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1587575908201" />
+    <state width="1440" height="236" key="GridCell.Tab.0.bottom" timestamp="1588847075169">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1440" height="251" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587577097442" />
+    <state width="1440" height="236" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588847075169" />
+    <state width="1440" height="236" key="GridCell.Tab.0.center" timestamp="1588847075168">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1440" height="251" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587577097440" />
+    <state width="1440" height="236" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588847075168" />
+    <state width="1440" height="236" key="GridCell.Tab.0.left" timestamp="1588847075167">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1440" height="251" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587577097439" />
+    <state width="1440" height="236" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588847075167" />
+    <state width="1440" height="236" key="GridCell.Tab.0.right" timestamp="1588847075169">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1440" height="251" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587577097441" />
+    <state width="1440" height="236" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588847075169" />
+    <state width="1440" height="323" key="GridCell.Tab.1.bottom" timestamp="1587577097416">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="323" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587577097416" />
+    <state width="725" height="323" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587573784193" />
+    <state width="1440" height="323" key="GridCell.Tab.1.center" timestamp="1587577097414">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="323" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1587577097414" />
+    <state width="725" height="323" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1587573784191" />
+    <state width="1440" height="323" key="GridCell.Tab.1.left" timestamp="1587577097413">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="323" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1587577097413" />
+    <state width="725" height="323" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1587573784189" />
+    <state width="1440" height="323" key="GridCell.Tab.1.right" timestamp="1587577097415">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="323" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1587577097415" />
+    <state width="725" height="323" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1587573784192" />
+    <state x="280" y="43" key="SettingsEditor" timestamp="1587136034316">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="280" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1587136034316" />
+    <state x="471" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1588847024012">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="471" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1588847024012" />
+  </component>
+</project>

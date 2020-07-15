@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d0ca072-9bfd-414c-9253-f636bcf02ab5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xny8L5KS6Q6HKVGLV0aM1UIFxD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.GuitarHeroLite (1)">
+    <configuration name="GuitarHeroLite (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cmsc201_Lab3_Shirodkar_Arnav.GuitarHeroLite" />
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cmsc201_Lab3_Shirodkar_Arnav.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuitarHeroLite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuitarHeroLite" />
+      <module name="Lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuitarString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuitarString" />
+      <module name="Lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuitarStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuitarStringTest" />
+      <module name="Lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RingBufferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RingBufferTest" />
+      <module name="Lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GuitarHeroLite (1)" />
+        <item itemvalue="Application.GuitarHeroLite" />
+        <item itemvalue="Application.GuitarStringTest" />
+        <item itemvalue="Application.RingBufferTest" />
+        <item itemvalue="Application.GuitarString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d0ca072-9bfd-414c-9253-f636bcf02ab5" name="Default Changelist" comment="" />
+      <created>1581695992142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581695992142</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="134" key="#Project_Structure" timestamp="1581696000453">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="312" y="134" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1581696000453" />
+    <state x="229" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581699297572">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1581699297572" />
+    <state width="1197" height="223" key="GridCell.Tab.0.bottom" timestamp="1585195732740">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1197" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585195732740" />
+    <state width="1197" height="223" key="GridCell.Tab.0.center" timestamp="1585195732739">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1197" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585195732739" />
+    <state width="1197" height="223" key="GridCell.Tab.0.left" timestamp="1585195732739">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1197" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585195732739" />
+    <state width="1197" height="223" key="GridCell.Tab.0.right" timestamp="1585195732740">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1197" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585195732740" />
+    <state width="1197" height="293" key="GridCell.Tab.1.bottom" timestamp="1585195732724">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1197" height="293" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585195732724" />
+    <state width="1197" height="293" key="GridCell.Tab.1.center" timestamp="1585195732723">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1197" height="293" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1585195732723" />
+    <state width="1197" height="293" key="GridCell.Tab.1.left" timestamp="1585195732722">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1197" height="293" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1585195732722" />
+    <state width="1197" height="293" key="GridCell.Tab.1.right" timestamp="1585195732723">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1197" height="293" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1585195732723" />
+    <state x="188" y="25" key="SettingsEditor" timestamp="1585195305586">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="188" y="25" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585195305586" />
+    <state x="122" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1582243715453">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="122" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1582243715453" />
+    <state x="430" y="201" key="run.anything.popup" timestamp="1581699288533">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="430" y="201" key="run.anything.popup/0.23.1440.877@0.23.1440.877" timestamp="1581699288533" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cmsc201_Lab3_Shirodkar_Arnav/GuitarHeroLite.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cmsc201_Lab3_Shirodkar_Arnav/GuitarString.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

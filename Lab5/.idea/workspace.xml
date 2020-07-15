@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e40547e4-d3ab-4fd7-a3d7-d4ea7d2c47fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YvElQWAN6Wj2D962TJTc3wJYs5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Jumble">
+    <configuration name="Jumble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jumble" />
+      <module name="Lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpellChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpellChecker" />
+      <module name="Lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Jumble" />
+        <item itemvalue="Application.SpellChecker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e40547e4-d3ab-4fd7-a3d7-d4ea7d2c47fe" name="Default Changelist" comment="" />
+      <created>1583814817902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583814817902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="840" height="230" key="GridCell.Tab.0.bottom" timestamp="1584228023724">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="840" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584228023724" />
+    <state width="840" height="230" key="GridCell.Tab.0.center" timestamp="1584228023722">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="840" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1584228023722" />
+    <state width="840" height="230" key="GridCell.Tab.0.left" timestamp="1584228023719">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="840" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1584228023719" />
+    <state width="840" height="230" key="GridCell.Tab.0.right" timestamp="1584228023723">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="840" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1584228023723" />
+    <state x="133" y="43" key="SettingsEditor" timestamp="1583815661114">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="133" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583815661114" />
+    <state x="324" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1583814822966">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="324" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583814822966" />
+    <state x="310" y="211" key="run.anything.popup" timestamp="1583815641167">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="310" y="211" key="run.anything.popup/0.23.1440.877@0.23.1440.877" timestamp="1583815641167" />
+    <state x="116" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1584070649111">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="116" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1584070649111" />
+  </component>
+</project>

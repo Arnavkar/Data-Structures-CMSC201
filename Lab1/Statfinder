@@ -1,0 +1,55 @@
+/* 
+
+Arnav Shirodkar CMSC201:Data Structures
+Email: as9086@bard.edu
+Date: 06/02/2020
+Collaboration Statement: I worked on this with Marco. I made this second file, StatsV2.java when adapting my
+code to include the Welford method and I referred to https://algs4.cs.princeton.edu/code/edu/princeton/cs/algs4/Accumulator.java.html
+The link also prompted me to alter my code to be more object oriented.
+
+*/
+
+import edu.princeton.cs.algs4.*;
+
+public class Statfinder{  
+	private double count; //number of input values
+	private double average; // mean value
+	private double x; //variance * (n-1)
+	
+	public Statfinder(){}
+		
+		public void nextInput(double input){
+			count++;
+			double temp = input - average;
+			average += temp/count;
+			x += (count-1)/count*temp*temp;
+		}
+
+		public double mean(){
+			return average; 
+		}	
+
+		public double stdDev(){ 
+			return Math.sqrt(x/(count-1));
+		}
+
+		public double n(){
+			return count;
+		}
+
+		public static void main (String[] args){
+			Statfinder calc = new Statfinder();
+			double first = StdIn.readDouble(); //Note: Reads the first input, next call of StdIn reads the second input onward!
+
+			while (!StdIn.isEmpty()){
+				double input = StdIn.readDouble(); //Note: Begins reading from 2nd value!
+				calc.nextInput(input);
+			}	
+			StdOut.printf("%10s %10s %23s","N","min","max","mean","Standard Deviation");
+			StdOut.println();
+			StdOut.println("--------------------------------------------------------------------");
+			System.out.format("%10.0f %10.3f %23.3f ",calc.n(),calc.mean(),calc.stdDev());
+			StdOut.println();
+
+	} 
+}	

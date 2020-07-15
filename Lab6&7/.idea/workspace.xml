@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f94761d-9730-4718-bef8-c504969d6e88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZeYdCO2sIlfOSPOnmHaV0vDfnS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ConvexHull">
+    <configuration name="BoundingBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoundingBox" />
+      <module name="Lab6&amp;7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvexHull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvexHull" />
+      <module name="Lab6&amp;7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinPQMultiway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinPQMultiway" />
+      <module name="Lab6&amp;7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConvexHull" />
+        <item itemvalue="Application.MinPQMultiway" />
+        <item itemvalue="Application.BoundingBox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f94761d-9730-4718-bef8-c504969d6e88" name="Default Changelist" comment="" />
+      <created>1585201112250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585201112250</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="127" key="#Project_Structure" timestamp="1585201155753">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="441" y="127" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1585201155753" />
+    <state x="498" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585989777782">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="498" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1585989777782" />
+    <state width="1166" height="237" key="GridCell.Tab.0.bottom" timestamp="1586442821356">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1166" height="237" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586442821356" />
+    <state width="1166" height="237" key="GridCell.Tab.0.center" timestamp="1586442821355">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1166" height="237" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586442821355" />
+    <state width="1166" height="237" key="GridCell.Tab.0.left" timestamp="1586442821354">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1166" height="237" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586442821354" />
+    <state width="1166" height="237" key="GridCell.Tab.0.right" timestamp="1586442821355">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1166" height="237" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586442821355" />
+    <state width="747" height="294" key="GridCell.Tab.1.bottom" timestamp="1586069457806">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="747" height="294" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586069457806" />
+    <state width="747" height="294" key="GridCell.Tab.1.center" timestamp="1586069457804">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="747" height="294" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1586069457804" />
+    <state width="747" height="294" key="GridCell.Tab.1.left" timestamp="1586069457803">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="747" height="294" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1586069457803" />
+    <state width="747" height="294" key="GridCell.Tab.1.right" timestamp="1586069457805">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="747" height="294" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586069457805" />
+    <state x="329" y="43" key="SettingsEditor" timestamp="1585201145437">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="329" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585201145437" />
+    <state x="520" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1586440126959">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="520" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1586440126959" />
+    <state x="743" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1585212747093">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="743" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1585212747093" />
+  </component>
+</project>
