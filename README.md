@@ -1,8 +1,8 @@
 # Data-Structures-CMSC201
 
-Lab 1 - Finding Statistics on Benford's Law 
-Lab 2 - Creating your own Fractions Class
-Lab 3 - Guitar Hero Lite (Ringbuffer, class based abstraction)
+Lab 1 - Finding Statistics on Benford's Law \n
+Lab 2 - Creating your own Fractions Class \n
+Lab 3 - Guitar Hero Lite (Ringbuffer, class based abstraction) \n
 Lab 4 - Travelling salesman problem 
 Lab 5 - Spell checker using self-organizing linked list 
 Lab 6&7 - Bounding Boxes and Convex Hulls 
